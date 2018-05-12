@@ -1,0 +1,40 @@
+_repo: Bolanyo_38826
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Parrish, Maxfield
+    birthdate: 1870
+    deathdate: 1966
+    gutenberg_agent_id: '9605'
+    url: http://www.gutenberg.org/2009/agents/9605
+    wikipedia: http://en.wikipedia.org/wiki/Maxfield_Parrish
+  - agent_name: Browne, Charles Francis
+    alias: Browne, C. F. (Charles Francis)
+    gutenberg_agent_id: '43740'
+    url: http://www.gutenberg.org/2009/agents/43740
+covers:
+- cover_type: archival
+  image_path: 38826-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Read, Opie Percival
+    alias: Read, Opie P.
+    birthdate: 1852
+    deathdate: 1939
+    gutenberg_agent_id: '8387'
+    url: http://www.gutenberg.org/2009/agents/8387
+    wikipedia: http://en.wikipedia.org/wiki/Opie_Read
+description: ''
+gutenberg_issued: '2012-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38826'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mississippi -- Fiction'
+- !lcc 'PS'
+title: Bolanyo
+url: http://www.gutenberg.org/ebooks/38826
